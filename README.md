@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://i.gifer.com/7zAN.gif">
+![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 <!--
 **cybng/cybng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

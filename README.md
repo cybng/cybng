@@ -1,5 +1,5 @@
  
  <h1>welcome to cybNg!</h2>
 <div align="center"> 
-<img src="https://cdn.dribbble.com/users/759099/screenshots/4322310/media/386aafad8ea2c850c4e3c5b0ccb6cf6a.gif" width="100%">
+<img src="https://miro.medium.com/max/700/0*C-cPP9D2MIyeexAT.gif" width="100%">
 
